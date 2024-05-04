@@ -37,7 +37,7 @@ Paper 丨 Code 丨 Slides
 
 <ins>Yuancheng Jiang</ins>, Jiahao Liu, Jinsheng Ba, Roland Yap, Zhenkai Liang, Manuel Rigger 
 
-In the 46th International Conference on Software Engineering ``ICSE 2024``, [Accepted Rate: Unknown] 
+In the 46th International Conference on Software Engineering ``ICSE 2024``, [Accepted Rate: 22%] 
 
 [Paper](https://yuanchengjiang.github.io/docs/GraphGenie-ICSE24.pdf) 丨 [Code](https://github.com/YuanchengJiang/GraphGenie) 丨 [Slides](https://yuanchengjiang.github.io/docs/GraphGenie_slides.pdf)
 
