@@ -91,6 +91,25 @@ In the 17th ACM ASIA Conference on Computer and Communications Security ``AsiaCC
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
+<div class="frame" onclick="nextImage()">
+    <img src="image1.jpg" id="frame-image" alt="Image">
+</div>
+
+<script>
+    const images = [
+        'image1.jpg',
+        'image2.jpg',
+        'image3.jpg',
+        // 添加更多图片路径
+    ];
+    let currentIndex = 0;
+
+    function nextImage() {
+        currentIndex = (currentIndex + 1) % images.length;
+        document.getElementById('frame-image').src = images[currentIndex];
+    }
+</script>
+
 <p align="center">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=tt&d=2eF_pLvAz6SCyhYAFge0Xn9iWMT1PxKclkuxvQeeuzg&co=0d3e75&cmo=019b2a&cmn=ce3737&ct=ffffff'></script>
 </p> 
