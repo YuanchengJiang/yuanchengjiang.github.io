@@ -97,7 +97,7 @@ In the 17th ACM ASIA Conference on Computer and Communications Security ``AsiaCC
 
 <script>
     const images = [];
-    for (let i = 1; i <= 100; i++) {
+    for (let i = 1; i <= 66; i++) {
         images.push(`docs/pig${i}.jpg`);
     }
 
