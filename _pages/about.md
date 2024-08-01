@@ -92,21 +92,18 @@ In the 17th ACM ASIA Conference on Computer and Communications Security ``AsiaCC
 -->
 
 <div class="frame" onclick="nextImage()">
-    <img src="image1.jpg" id="frame-image" alt="Image">
+    <img src="docs/pig1.jpg" id="frame-image" alt="Image">
 </div>
 
 <script>
-    const images = [
-        'image1.jpg',
-        'image2.jpg',
-        'image3.jpg',
-        // 添加更多图片路径
-    ];
-    let currentIndex = 0;
+    const images = [];
+    for (let i = 1; i <= 100; i++) {
+        images.push(`docs/pig${i}.jpg`);
+    }
 
     function nextImage() {
-        currentIndex = (currentIndex + 1) % images.length;
-        document.getElementById('frame-image').src = images[currentIndex];
+        const randomIndex = Math.floor(Math.random() * images.length);
+        document.getElementById('frame-image').src = images[randomIndex];
     }
 </script>
 
