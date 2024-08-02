@@ -91,22 +91,6 @@ In the 17th ACM ASIA Conference on Computer and Communications Security ``AsiaCC
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
-<div class="frame" onclick="nextImage()">
-    <img src="docs/pig1.jpg" id="frame-image" alt="Image">
-</div>
-
-<script>
-    const images = [];
-    for (let i = 1; i <= 66; i++) {
-        images.push(`docs/pig${i}.jpg`);
-    }
-
-    function nextImage() {
-        const randomIndex = Math.floor(Math.random() * images.length);
-        document.getElementById('frame-image').src = images[randomIndex];
-    }
-</script>
-
 <p align="center">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=0&t=tt&d=2eF_pLvAz6SCyhYAFge0Xn9iWMT1PxKclkuxvQeeuzg&co=0d3e75&cmo=019b2a&cmn=ce3737&ct=ffffff'></script>
 </p> 
