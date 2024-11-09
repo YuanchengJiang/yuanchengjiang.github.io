@@ -86,6 +86,14 @@ In the 17th ACM ASIA Conference on Computer and Communications Security ``AsiaCC
 - *Jun. 2019 ~ Aug. 2019*, Summer Internship, Huawei, Shanghai
 - *2017 ~ 2020*, Capture The Flag (CTF), Member of Fudan [Sixstars](https://github.com/sixstars)
 
+# 🐞 Bugs
+Our research efforts have been rewarded with hundreds of bugs (crashes🔴, wrong results🟡) as follows:
+- [The PHP Interpreter](https://github.com/php/php-src) (38.2k⭐): updating
+- [Neo4j](https://github.com/neo4j/neo4j) (13.4k⭐): updating
+- [QuestDB](https://github.com/questdb/questdb) (14.6k⭐): updating
+- [RedisGraph](https://github.com/RedisGraph/RedisGraph) (2.0k⭐): [#2744🟡](https://github.com/RedisGraph/RedisGraph/issues/2744), [#2858🟡](https://github.com/RedisGraph/RedisGraph/issues/2858), [#2859🟡](https://github.com/RedisGraph/RedisGraph/issues/2859), [#2865🟡](https://github.com/RedisGraph/RedisGraph/issues/2865), [#3071🔴](https://github.com/RedisGraph/RedisGraph/issues/3071)
+- [AgensGraph](https://github.com/bitnine-oss/agensgraph) (1.3k⭐): [#595🟡](https://github.com/bitnine-oss/agensgraph/issues/595), [#609🟡](https://github.com/bitnine-oss/agensgraph/issues/609), [#617🟡](https://github.com/bitnine-oss/agensgraph/issues/617)
+
 <!--
 # 👭 Friends
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
