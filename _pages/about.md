@@ -87,7 +87,7 @@ In the 17th ACM ASIA Conference on Computer and Communications Security ``AsiaCC
 - *2017 ~ 2020*, Capture The Flag (CTF), Member of Fudan [Sixstars](https://github.com/sixstars)
 
 # 🐞 Bugs
-Our research efforts have been rewarded with hundreds of bugs (crashes🔴, wrong results🟡) as follows:
+Our research efforts have been rewarded with hundreds of bugs (crashes/errors🔴, wrong results🟡) as follows:
 - [The PHP Interpreter](https://github.com/php/php-src) (38.2k⭐): updating
 - [Neo4j](https://github.com/neo4j/neo4j) (13.4k⭐): updating
 - [QuestDB](https://github.com/questdb/questdb) (14.6k⭐): updating
