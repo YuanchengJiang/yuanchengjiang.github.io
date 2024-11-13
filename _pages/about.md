@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Yuancheng Jiang (蒋元丞), a Ph.D. candidate at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/)<img src="./images/nus.jpg" style="width: 1.5em;" />. I am honored to be co-supervised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/) and Prof. [Roland Yap](https://www.comp.nus.edu.sg/cs/people/ryap/) with a research focus on system security. I also collaborate with Prof. [Manuel Rigger](https://manuelrigger.at/) on bug discovery. Before I start the Ph.D. journey, I completed my Master's degree also at NUS and my Bachelor's degree at [Fudan University](https://www.fudan.edu.cn/en/)<img src="./images/fdu.png" style="width: 1.5em;" />. 
+Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/)<img src="./images/nus.jpg" style="width: 1.5em;" />, co-supervised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/) and Prof. [Roland Yap](https://www.comp.nus.edu.sg/cs/people/ryap/), with a research focus on system security. He collaborates with Prof. [Manuel Rigger](https://manuelrigger.at/) on fuzz testing. Prior to his Ph.D. studies, he completed his Master's degree at National University of Singapore and his Bachelor's degree at [Fudan University](https://www.fudan.edu.cn/en/)<img src="./images/fdu.png" style="width: 1.5em;" />.
 
 # 🔥 News
 - *Feb. 2024*: &nbsp;🎉🎉 Our recent work on evaluating disassemblers via dynamic tracing is accepted in NDSS BAR'24!
