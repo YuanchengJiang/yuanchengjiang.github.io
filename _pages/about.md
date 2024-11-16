@@ -131,7 +131,7 @@ Our research efforts have been rewarded with hundreds of bugs (crashes/errors�
 
 # 🎸 Music
 <p>
-    I play piano 🎹, guitar 🎸, drums 🥁, and enjoy 
+    I passed the Grade 6 Music Theory in [ABRSM](https://www.abrsm.org/)<img src="./images/abrsm.jpg" style="width: 1.5em;" />. I play piano 🎹, guitar 🎸, drums 🥁, and enjoy 
     <span id="bandShows" class="clickable"> band shows</span>.
 </p>
 
