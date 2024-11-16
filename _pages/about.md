@@ -124,7 +124,7 @@ Our research efforts have been rewarded with hundreds of bugs (crashes/errorsğŸ”
 </p>
 
 <div id="videoSection">
-    <iframe width="200" height="200" src="https://www.youtube.com/embed/6ovu13_usIM" frameborder="0"></iframe>
+    <iframe width="66" height="66" src="https://www.youtube.com/embed/6ovu13_usIM" frameborder="0"></iframe>
 </div>
 
 <script>
