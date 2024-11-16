@@ -130,7 +130,7 @@ Our research efforts have been rewarded with hundreds of bugs (crashes/errors�
 -->
 
 # 🎸 Music
-I passed the Grade 6 Music Theory in [ABRSM](https://www.abrsm.org/)<img src="./images/abrsm.jpg" style="width: 1.1em;" />. I play piano 🎹, guitar 🎸, drums 🥁, and enjoy <p><span id="bandShows" class="clickable">band shows</span>.</p>
+I passed the Grade 6 Music Theory in [ABRSM](https://www.abrsm.org/)<img src="./images/abrsm.jpg" style="width: 1.1em;" />. I play piano 🎹, guitar 🎸, drums 🥁, and enjoy <span id="bandShows" class="clickable">band shows</span>.
 
 <div id="videoSection">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/6ovu13_usIM" frameborder="0"></iframe>
