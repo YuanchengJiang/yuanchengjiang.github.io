@@ -17,6 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<meta charset="UTF-8">
+<title>Musical Interests</title>
+<head>
+    <meta charset="UTF-8">
+    <title>Musical Interests</title>
+    <style>
+        /* Style for the clickable text */
+        .clickable {
+            color: blue;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+        /* Hide the video section initially */
+        #videoSection {
+            display: none;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
 Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/)<img src="./images/nus.jpg" style="width: 1.5em;" />, co-supervised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/) and Prof. [Roland Yap](https://www.comp.nus.edu.sg/cs/people/ryap/), with a research focus on system security. He collaborates with Prof. [Manuel Rigger](https://manuelrigger.at/) on fuzz testing. Prior to his Ph.D. studies, he completed his Master's degree at National University of Singapore and his Bachelor's degree at [Fudan University](https://www.fudan.edu.cn/en/)<img src="./images/fdu.png" style="width: 1.5em;" />.
 
 # 🔥 News
@@ -98,7 +118,26 @@ Our research efforts have been rewarded with hundreds of bugs (crashes/errors�
 -->
 
 # 🎸 Music
-I love playing piano🎹, guitar🎸, and drums🥁. 
+<p>
+    I play piano 🎹, guitar 🎸, drums 🥁, and enjoy 
+    <span id="bandShows" class="clickable">the band shows</span>.
+</p>
+
+<div id="videoSection">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6ovu13_usIM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<script>
+    // JavaScript to toggle the video section
+    document.getElementById("bandShows").addEventListener("click", function() {
+        var videoSection = document.getElementById("videoSection");
+        if (videoSection.style.display === "none" || videoSection.style.display === "") {
+            videoSection.style.display = "block";
+        } else {
+            videoSection.style.display = "none";
+        }
+    });
+</script>
 
 <!--
 # 👭 Friends
