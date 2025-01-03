@@ -58,7 +58,7 @@ Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.co
 
 <ins>Yuancheng Jiang</ins>, Jianing Wang, Chuqi Zhang, Roland Yap, Zhenkai Liang, Manuel Rigger
 
-[Paper](https://arxiv.org/pdf/2501.01236) | [Code](https://github.com/YuanchengJiang/SQLxDiff) | Slides
+[Paper](https://arxiv.org/pdf/2501.01236) 丨 [Code](https://github.com/YuanchengJiang/SQLxDiff) 丨 Slides
 
 **Evaluating Disassembly Ground Truth Through Dynamic Tracing**
 
