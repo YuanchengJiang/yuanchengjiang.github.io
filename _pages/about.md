@@ -54,6 +54,12 @@ Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.co
 
 # 📝 Publications 
 
+**[Preprint] Enhanced Differential Testing in Emerging Database Systems**
+
+<ins>Yuancheng Jiang</ins>, Jianing Wang, Chuqi Zhang, Roland Yap, Zhenkai Liang, Manuel Rigger
+
+[Paper](https://arxiv.org/pdf/2501.01236)
+
 **Evaluating Disassembly Ground Truth Through Dynamic Tracing**
 
 Lambang Akbar, <ins>Yuancheng Jiang</ins>, Roland Yap, Zhenkai Liang, Zhuohao Liu
