@@ -49,8 +49,9 @@ redirect_from:
 Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/)<img src="./images/nus.jpg" style="width: 1.5em;" />, co-supervised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/) and Prof. [Roland Yap](https://www.comp.nus.edu.sg/cs/people/ryap/), with a research focus on system security. He collaborates with Prof. [Manuel Rigger](https://manuelrigger.at/) on fuzz testing. Prior to his Ph.D. studies, he completed his Master's degree at National University of Singapore and his Bachelor's degree at [Fudan University](https://www.fudan.edu.cn/en/)<img src="./images/fdu.png" style="width: 1.5em;" />.
 
 # 🔥 News
-- *Feb. 2024*: &nbsp;🎉🎉 Our recent work on evaluating disassemblers via dynamic tracing is accepted in NDSS BAR'24!
-- *Aug. 2023*: &nbsp;🎉🎉 Our recent work on detecting logic bugs in graph database engines is accepted in ICSE'24!
+- *Jan. 2025*: &nbsp;🎉🎉 Our work on dataflow-driven fuzzing of the PHP interpreter is accepted in Security'25!
+- *Feb. 2024*: &nbsp;🎉🎉 Our work on evaluating disassemblers via dynamic tracing is accepted in NDSS BAR'24!
+- *Aug. 2023*: &nbsp;🎉🎉 Our work on detecting logic bugs in graph database engines is accepted in ICSE'24!
 
 # 📝 Publications 
 
@@ -59,6 +60,14 @@ Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.co
 <ins>Yuancheng Jiang</ins>, Jianing Wang, Chuqi Zhang, Roland Yap, Zhenkai Liang, Manuel Rigger
 
 [Paper](https://arxiv.org/pdf/2501.01236) 丨 [Code](https://github.com/YuanchengJiang/SQLxDiff) 丨 Slides
+
+**Fuzzing the PHP Interpreter via Dataflow Fusion**
+
+<ins>Yuancheng Jiang</ins>, Chuqi Zhang, Bonan Ruan, Jiahao Liu, Manuel Rigger, Roland Yap, Zhenkai Liang
+
+In the 34th USENIX Security Symposium ``USENIX Security 2025``, [Accepted Rate: Unknown] 
+
+[Paper](https://yuanchengjiang.github.io/docs/flowfusion.pdf) 丨 [Code](https://github.com/php/flowfusion) 丨 Slides
 
 **Evaluating Disassembly Ground Truth Through Dynamic Tracing**
 
