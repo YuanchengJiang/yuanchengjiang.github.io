@@ -145,7 +145,7 @@ Our research efforts have been rewarded with hundreds of bugs (crashes/errors�
 -->
 
 # 🎸 Music
-I have completed the [ABRSM](https://www.abrsm.org/)<img src="./images/abrsm.jpg" style="width: 1.1em;" /> Grade 6 Music Theory exam and enjoy playing the piano 🎹, guitar 🎸, and drums 🥁.
+He has completed the [ABRSM](https://www.abrsm.org/)<img src="./images/abrsm.jpg" style="width: 1.1em;" /> Grade 6 Music Theory exam and enjoys playing the piano 🎹, guitar 🎸, and drums 🥁.
 
 <!--
 and enjoy <span id="bandShows" class="clickable">band shows</span>.
