@@ -67,7 +67,7 @@ Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.co
 
 In the 34th USENIX Security Symposium ``USENIX Security 2025``, [Accepted Rate: Unknown] 
 
-[Paper](https://yuanchengjiang.github.io/docs/flowfusion.pdf) 丨 [Code](https://github.com/php/flowfusion) 丨 Slides 丨 [Bugs!](https://github.com/php/php-src/issues?q=is%3Aissue%20author%3AYuanchengJiang%20)
+[Paper](https://yuanchengjiang.github.io/docs/flowfusion.pdf) 丨 [Code](https://github.com/php/flowfusion) 丨 Slides 丨 [Bugs (we reported over 300 bug issues!)](https://github.com/php/php-src/issues?q=is%3Aissue%20author%3AYuanchengJiang%20)
 
 **Evaluating Disassembly Ground Truth Through Dynamic Tracing**
 
