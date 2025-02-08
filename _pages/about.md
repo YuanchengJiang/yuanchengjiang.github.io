@@ -59,7 +59,7 @@ Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.co
 
 <ins>Yuancheng Jiang</ins>, Jianing Wang, Chuqi Zhang, Roland Yap, Zhenkai Liang, Manuel Rigger
 
-[Paper](https://arxiv.org/pdf/2501.01236) 丨 [Code](https://github.com/YuanchengJiang/SQLxDiff) 丨 Slides
+[Paper](https://arxiv.org/pdf/2501.01236) 丨 [Code](https://github.com/YuanchengJiang/SQLxDiff) 丨 Slides 丨 [Bugs](https://github.com/questdb/questdb/issues?q=is%3Aissue%20author%3AYuanchengJiang%20)
 
 **Fuzzing the PHP Interpreter via Dataflow Fusion**
 
@@ -67,7 +67,7 @@ Yuancheng Jiang is a Ph.D. candidate at the [School of Computing](https://www.co
 
 In the 34th USENIX Security Symposium ``USENIX Security 2025``, [Accepted Rate: Unknown] 
 
-[Paper](https://yuanchengjiang.github.io/docs/flowfusion.pdf) 丨 [Code](https://github.com/php/flowfusion) 丨 Slides
+[Paper](https://yuanchengjiang.github.io/docs/flowfusion.pdf) 丨 [Code](https://github.com/php/flowfusion) 丨 Slides 丨 [Bugs!](https://github.com/php/php-src/issues?q=is%3Aissue%20author%3AYuanchengJiang%20)
 
 **Evaluating Disassembly Ground Truth Through Dynamic Tracing**
 
@@ -83,7 +83,7 @@ Paper 丨 Code 丨 Slides
 
 In the 46th International Conference on Software Engineering ``ICSE 2024``, [Accepted Rate: 22%] 
 
-[Paper](https://yuanchengjiang.github.io/docs/GraphGenie-ICSE24.pdf) 丨 [Code](https://github.com/YuanchengJiang/GraphGenie) 丨 [Slides](https://yuanchengjiang.github.io/docs/GraphGenie_slides.pdf)
+[Paper](https://yuanchengjiang.github.io/docs/GraphGenie-ICSE24.pdf) 丨 [Code](https://github.com/YuanchengJiang/GraphGenie) 丨 [Slides](https://yuanchengjiang.github.io/docs/GraphGenie_slides.pdf) 丨 [Bugs](https://github.com/neo4j/neo4j/issues?q=is%3Aissue%20author%3AYuanchengJiang%20)
 
 **Extensible Virtual Call Integrity**
 
