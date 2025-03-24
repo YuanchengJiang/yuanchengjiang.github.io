@@ -68,7 +68,7 @@ Chuqi Zhang, Rahul Priolkar, <ins>Yuancheng Jiang</ins>, Yuan Xiao, Mona Vij, Zh
 
 In the 20th ACM European Conference on Computer Systems ``EuroSys 2025``, [Accepted Rate: 11.5%] 
 
-Paper 丨 [Code](https://github.com/ASTERISC-Release/Erebor) 丨 Slides
+[Paper](https://asteriscresearchlab.com/papers/zhang-erebor.pdf) 丨 [Code](https://github.com/ASTERISC-Release/Erebor) 丨 Slides
 
 **Fuzzing the PHP Interpreter via Dataflow Fusion**
 
