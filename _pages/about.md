@@ -49,7 +49,7 @@ redirect_from:
 Yuancheng Jiang (蒋元丞) is a Ph.D. candidate at the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/)<img src="./images/nus.jpg" style="width: 1.5em;" />, co-supervised by Prof. [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/) and Prof. [Roland Yap](https://www.comp.nus.edu.sg/cs/people/ryap/), with a research focus on system security. He collaborates with Prof. [Manuel Rigger](https://manuelrigger.at/) on fuzz testing. Prior to his Ph.D. studies, he completed his Master's degree at National University of Singapore and his Bachelor's degree at [Fudan University](https://www.fudan.edu.cn/en/)<img src="./images/fdu.png" style="width: 1.5em;" />.
 
 # 🔥 News
-- *May. 2025*: &nbsp;💡 We are releasing one interesting LLM benchmark generator, [OSS-Bench](https://oss-bench.github.io/), stay tuned! 💡
+- *May. 2025*: &nbsp;💡 We are releasing one interesting benchmark generator for evaluating coding LLMs, [OSS-Bench](https://oss-bench.github.io/), stay tuned! 💡
 - *Feb. 2025*: &nbsp;🎉🎉 Our work on Sandboxing Client Data in Confidential VMs is accepted in EuroSys'25!
 - *Jan. 2025*: &nbsp;🎉🎉 Our work on fuzzing the PHP interpreter by dataflow fusion is accepted in Security'25!
 - *Feb. 2024*: &nbsp;🎉🎉 Our work on evaluating disassemblers via dynamic tracing is accepted in NDSS BAR'24!
