@@ -57,6 +57,12 @@ Yuancheng Jiang (蒋元丞) is a Ph.D. candidate at the [School of Computing](ht
 
 # 📝 Publications 
 
+**[Preprint] OSS-Bench: Benchmark Generator for Coding LLMs**
+
+<ins>Yuancheng Jiang</ins>, Roland Yap, Zhenkai Liang
+
+[Paper](https://yuanchengjiang.github.io/docs/oss-bench.pdf) 丨 [Code](https://github.com/oss-bench/oss-bench) 丨 Slides 丨 [Leaderboard](https://oss-bench.github.io/)
+
 **[Preprint] Enhanced Differential Testing in Emerging Database Systems**
 
 <ins>Yuancheng Jiang</ins>, Jianing Wang, Chuqi Zhang, Roland Yap, Zhenkai Liang, Manuel Rigger
