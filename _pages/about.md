@@ -61,7 +61,7 @@ Yuancheng Jiang (蒋元丞) is a Ph.D. candidate at the [School of Computing](ht
 
 <ins>Yuancheng Jiang</ins>, Roland Yap, Zhenkai Liang
 
-[Paper](https://yuanchengjiang.github.io/docs/oss-bench.pdf) 丨 [Code](https://github.com/oss-bench/oss-bench) 丨 Slides 丨 [Leaderboard](https://oss-bench.github.io/)
+[Paper](https://arxiv.org/pdf/2505.12331) 丨 [Code](https://github.com/oss-bench/oss-bench) 丨 Slides 丨 [Leaderboard](https://oss-bench.github.io/)
 
 **[Preprint] Enhanced Differential Testing in Emerging Database Systems**
 
