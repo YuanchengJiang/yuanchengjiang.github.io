@@ -50,9 +50,7 @@ Yuancheng Jiang (蒋元丞) is a Ph.D. candidate at the [School of Computing](ht
 
 # 🔥 News
 - *May. 2025*: &nbsp;💡 We are releasing one interesting benchmark generator for evaluating coding LLMs, [OSS-Bench](https://oss-bench.github.io/), stay tuned! 💡
-- *Feb. 2025*: &nbsp;🎉🎉 Our work on Sandboxing Client Data in Confidential VMs is accepted in EuroSys'25!
 - *Jan. 2025*: &nbsp;🎉🎉 Our work on fuzzing the PHP interpreter by dataflow fusion is accepted in Security'25!
-- *Feb. 2024*: &nbsp;🎉🎉 Our work on evaluating disassemblers via dynamic tracing is accepted in NDSS BAR'24!
 - *Aug. 2023*: &nbsp;🎉🎉 Our work on detecting logic bugs in graph database engines is accepted in ICSE'24!
 
 # 📝 Publications 
@@ -85,15 +83,13 @@ In the 34th USENIX Security Symposium ``USENIX Security 2025``, [Accepted Rate: 
 
 [Paper](https://yuanchengjiang.github.io/docs/flowfusion.pdf) 丨 [Code (our fuzzer has been integrated into official toolchain!)](https://github.com/php/flowfusion) 丨 Slides 丨 [Bugs (we reported over 300 bug issues!)](https://github.com/php/php-src/issues?q=is%3Aissue%20author%3AYuanchengJiang%20)
 
-
-
-**Evaluating Disassembly Ground Truth Through Dynamic Tracing**
+**Evaluating Disassembly Errors With Only Binaries**
 
 Lambang Akbar, <ins>Yuancheng Jiang</ins>, Roland Yap, Zhenkai Liang, Zhuohao Liu
 
-In the Workshop on Binary Analysis Research co-located with NDSS Symposium ``NDSS BAR 2024``, [Accepted Rate: Unknown] 
+In the 20th ACM ASIA Conference on Computer and Communications Security ``AsiaCCS 2025``, [Accepted Rate: Unknown] 
 
-Paper 丨 Code 丨 Slides
+[Paper](https://yuanchengjiang.github.io/docs/tracebin.pdf) 丨 Code 丨 Slides
 
 **Detecting Logic Bugs in Graph Database Management Systems via Injective and Surjective Graph Query Transformation**
 
